@@ -24,7 +24,7 @@ cheese_and_crackers(amount_of_cheese + 100,amount_of_crackers+1000)
 #this is study drill , i m creating a funtion that takes emails from input then add them to a text file
 def collect_emails_in_text_file(email):
     print(f"{email}")
-    out_file = open("email.txt",'a')
+    out_file = open("ex19_emails.txt",'a')
     out_file.write(email + '\n')
     out_file.close()
 
