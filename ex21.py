@@ -28,5 +28,5 @@ print(f"Age : {age}, Height : {height}, Weight : {weight} iq : {iq}")
 print("here is a puzzle.")
 
 what = add(age , subtract(height,multiply(weight, divide(iq,2))))
-print("that becomes :", what,"can you do it by band")
+print("that becomes :", what,"can you do it by hand")
 # i learnt how to play with function with this exercise.
