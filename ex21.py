@@ -24,9 +24,14 @@ iq = divide(100, 2)
 print(f"Age : {age}, Height : {height}, Weight : {weight} iq : {iq}")
 
 #bonus puzzle
-
+a=1
+b=2
+c=3
+d=4
+#1+2-3*4/2=-3
 print("here is a puzzle.")
 
-what = add(age , subtract(height,multiply(weight, divide(iq,2))))
-print("that becomes :", what,"can you do it by hand")
+
+what = add(a , subtract(b,multiply(c, divide(d,2))))
+print("that becomes :", what,"can you do it by hand ?")
 # i learnt how to play with function with this exercise.
